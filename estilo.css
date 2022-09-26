@@ -272,9 +272,6 @@ button{
         font-size: 40px;
     }
 
-    .header{
-        margin-top: 120px;
-    }
     #ini{
         background-color: #171717;
         width: 100vw;
@@ -286,7 +283,6 @@ button{
     .sau {
         height: 150vh;
         padding: 50px 0;
-        margin-top: 250px;
     }
     #produ{
         background-color: #171717;
@@ -296,16 +292,11 @@ button{
         background-color: #171717;
         width: 100vw;
     }
-    .contact{
-        margin-top: 250px;
-    }
-    .price{
-        margin-top: 250px;
-    }
+    
+    
     .about {
         height: 150vh;
         padding: 50px 0;
-        margin-top: 250px;
     }
     #parts{
         background-color: #171717;
